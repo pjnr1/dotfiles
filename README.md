@@ -1,4 +1,4 @@
-# Mathias’s dotfiles
+# pjnr1 dotfiles
 
 ![Screenshot of my shell prompt](https://i.imgur.com/EkEtphC.png)
 
